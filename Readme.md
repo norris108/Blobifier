@@ -33,7 +33,9 @@ The device is designed around a Voron V2.4 300mm, but should work for 250mm and 
 - 1 x 10x15 aluminum strip
     - max 1mm thick
     - Make sure it's thick enough to dissipate the heat from the nozzle
-- 1 x SG90 or MG90 servo (and the included screws)
+- 1 x Servo of choice:
+    - SG90 or MG90 servo (and the included screws)
+    - Savox SH0255MGP (and the included screws)
 - 1 x omron D2F-5L sized micro switch. Any knock-off will work.
 - 1 x brass brush
 - 1 x 4-pin jst connector set (male + female)
